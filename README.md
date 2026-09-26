@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hi, I'm **Vamsi Paladugu**, a **B.Tech Computer Science graduate and Full Stack Developer** passionate about building modern web applications and AI-powered solutions.
+Hi, I'm **Vamsi Paladugu**, a **B.Tech Information Technology graduate and Full Stack Developer** passionate about building modern web applications and AI-powered solutions.
 
 💻 I work with **React, JavaScript, Node.js, Python, SQL, MySQL, and REST APIs** to develop scalable and user-friendly applications.
 
